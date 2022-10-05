@@ -1,9 +1,0 @@
-{
-  "name": "hwk-1",
-  "version": "1.0.0",
-  "author": "renbou",
-  "license": "Apache-2.0",
-  "dependencies": {
-    "solc": "^0.4.15"
-  }
-}
